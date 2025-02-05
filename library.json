@@ -1,0 +1,16 @@
+{
+  "name": "lv_conf",
+  "version": "0.0.1",
+  "keywords": "",
+  "description": "lv_conf for mks display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/richievos/lv_conf"
+  },
+  "authors":
+  [
+  ],
+  "frameworks": "arduino",
+  "platforms": "rp2040, espressif8266, espressif32, ststm32"
+}
